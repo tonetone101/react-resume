@@ -2,7 +2,7 @@
   "name": "react-resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Antkeo1.github.io/react-resume",
+  "homepage": "http://antkeo1.github.io/react-resume",
   "dependencies": {
     "node-sass": "^4.11.0",
     "react": "^16.7.0",
