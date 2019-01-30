@@ -16,6 +16,18 @@ const Training = () => (
         <li>Earned a certificate of completion for Training for trainers</li>
       </ul>
     </div>
+    <div className='container'>
+      <h4 >R.I Army National Guard - 1051 North Main street | Army Soldier</h4>
+      <h4 >Field Artillery, 2008- 2011</h4>
+
+      <ul>
+        <li>Completed 3 months of Military basic training</li>
+        <li>Trained in hand to hand combat</li>
+        <li>COmpleted marksmen training</li>
+        <li>Successfully worked part of a team in harsh conditions</li>
+        <li>Served my country</li>
+      </ul>
+    </div>
   </div>
 )
 
