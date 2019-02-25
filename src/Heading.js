@@ -8,6 +8,7 @@ const Heading = () => (
     Providence, RI 02909
     | Phone: 401-390-6917
     | E-Mail: keoantonio1@gmail.com
+    | <a href='https://www.github.com/Antkeo1'>My Github page</a>
     </mark></p>
 
   </div>
