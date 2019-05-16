@@ -30,6 +30,20 @@ Providence, Rhode Island</h4>
         <li>Used Javascript and jQuery to create backend logic</li>
       </ul>
     </div>
+
+    <div>
+      <h4 className='text-danger'>
+        Modern React wit Redux online course[2019 update]
+        May 2019
+        Udemy
+      </h4>
+        <ul>
+          <li>47.5 hours of online training</li>
+          <li>Created react applications using react and redux</li>
+          <li>Earned certificate of completion</li>
+        </ul>
+    </div>
+
     <div>
       <p>PROJECTS:
         <a href='https://antkeo1.github.io/myTicTacToe/'>Tic Tac Toe |</a>
