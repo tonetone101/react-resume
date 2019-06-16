@@ -47,7 +47,7 @@ Providence, Rhode Island</h4>
     <div>
       <p>PROJECTS:
         <a href='https://antkeo1.github.io/myTicTacToe/'>Tic Tac Toe |</a>
-        <a href='https://antkeo1.github.io/Journal_Entries_frontend/'>Journal Entries |</a>
+        <a href='https://floating-gorge-22160.herokuapp.com/'>Emailer Survey |</a>
         <a href='https://pvd04-squad06.github.io/Squad-project-client/'>E-Comerce Website</a>
       </p>
     </div>
