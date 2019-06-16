@@ -12,9 +12,9 @@ const Skills = () => (
             <p> Javascript/jQuery</p>
             <p> Ruby/Rails</p>
             <p>HTML/Bootstrap</p>
-            <p>CSS/Sass</p>
-            <p>SQL</p>
-            <p>JS React</p>
+            <p>Express</p>
+            <p>MongoDB</p>
+            <p>JS React/Redux</p>
           </div>
         </div>
         <div className='darkerBG col-md-6'>

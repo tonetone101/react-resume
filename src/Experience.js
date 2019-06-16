@@ -33,13 +33,13 @@ Providence, Rhode Island</h4>
 
     <div>
       <h4 className='text-danger'>
-        Modern React wit Redux online course[2019 update]
-        May 2019
+        Modern React wit Redux, NodeJs and Express online course[2019 update]
+        May 2019 - June 2019
         Udemy
       </h4>
         <ul>
-          <li>47.5 hours of online training</li>
-          <li>Created react applications using react and redux</li>
+          <li>73.5 hours of online training</li>
+          <li>Created react applications using react, redux and express</li>
           <li>Earned certificate of completion</li>
         </ul>
     </div>
