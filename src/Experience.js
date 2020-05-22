@@ -53,7 +53,7 @@ const Experience = () => (
         PROJECTS:
         <a href="https://antkeo1.github.io/myTicTacToe/">Tic Tac Toe |</a>
         <a href="http://uhschool.org">University High School |</a>
-        <a href="https://pvd04-squad06.github.io/Squad-project-client/">
+        <a href="https://hidden-shore-23649.herokuapp.com/">
           E-Comerce Website
         </a>
       </p>
